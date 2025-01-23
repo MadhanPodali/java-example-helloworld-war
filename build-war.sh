@@ -10,4 +10,3 @@ echo "Moving helloworld.war to dist/ with option --FORCE"
 mv -f helloworld.war dist/
 echo
 echo "Done"
-//hi
